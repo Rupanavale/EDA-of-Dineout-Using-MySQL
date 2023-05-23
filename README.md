@@ -70,7 +70,7 @@ The dataset combines the restaurants from the main Indian cities.
 11.What is the average rating for Pune?
 
 ## Dashboard
-(https://github.com/Rupanavale/EDA-of-Dineout-Using-MySQL/blob/main/Restaurants%20pb.pbix)
+Link - https://github.com/Rupanavale/EDA-of-Dineout-Using-MySQL/blob/main/Restaurants%20pb.pbix
 ![image](https://github.com/Rupanavale/EDA-of-Dineout-Using-MySQL/assets/109949193/16aabcc4-0d02-4e65-9d68-3b05dd656d10)
 
 ## Insights
