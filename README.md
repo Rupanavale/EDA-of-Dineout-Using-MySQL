@@ -52,7 +52,7 @@ The dataset combines the restaurants from the main Indian cities.
 
 ## Technologies Used
 
-- MySQL
+- Microsft Excel
 - MySQL Workbench
 - Power BI
 
